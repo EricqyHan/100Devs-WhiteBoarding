@@ -5,7 +5,7 @@ Note that PREP should be used daily and practiced to solve codewars
 
 
 1 - Ask first if you can take notes when they are telling you the code challenge
-  - `print 1 to sum value, if num divisible 3 === fizz, 5 === buzz, 3 and 5 fizzbuzz`
+  - `print out 1 to sum value where sum is an argument provided by user, if num divisible 3 === fizz, 5 === buzz, 3 and 5 fizzbuzz`
   
 2 - Ask about parameters
   - Questions like FizzBuzz: Will the argument always be positive or floated number, will it be a negative number?
